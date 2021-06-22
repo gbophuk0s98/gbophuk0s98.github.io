@@ -1,0 +1,19 @@
+@media (max-width: 575px) {
+	.services__service {
+		max-width: 100%;
+		width: 100%;
+		float: none;
+	}
+
+	.blog__post {
+		max-width: 280px;
+		margin: 0 auto;
+		display: block;
+	}
+
+	.blog__post img {
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
+}
